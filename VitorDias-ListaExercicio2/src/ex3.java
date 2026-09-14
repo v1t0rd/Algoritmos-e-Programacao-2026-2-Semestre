@@ -14,7 +14,7 @@ public class ex3 {
             System.out.println("O número " + numero + " é PAR.");
             System.out.println("O quadrado de " + numero + " é: " + quadrado);
         } else {
-            // Se não for par, obrigatoriamente é ímpar.
+           
             int cubo = numero * numero * numero;
             System.out.println("O número " + numero + " é ÍMPAR.");
             System.out.println("O cubo de " + numero + " é: " + cubo);
